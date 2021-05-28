@@ -1,0 +1,4 @@
+﻿  AI.cpp
+C:\Users\User\Desktop\FYP - SDL\FYP Using SDL\FYP Using SDL\AI.cpp(88,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\User\Desktop\FYP - SDL\FYP Using SDL\FYP Using SDL\AI.cpp(92,10): warning C4553: '==': result of expression not used; did you intend '='?
+  FYP Using SDL.vcxproj -> C:\Users\User\Desktop\FYP - SDL\FYP Using SDL\x64\Debug\FYP Using SDL.exe
